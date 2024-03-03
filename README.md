@@ -1,6 +1,6 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/hebertcisco/nestjs-microservices-mqtt)
 
-[![Node.js CI](https://github.com/hebertcisco/nestjs-microservices-mqtt/actions/workflows/node.js.yml/badge.svg)](https://github.com/hebertcisco/nestjs-microservices-mqtt/actions/workflows/node.js.yml)
+[![Build and Test](https://github.com/hebertcisco/nestjs-microservices-mqtt/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/hebertcisco/nestjs-microservices-mqtt/actions/workflows/node.js.yml)
 
 MQTT is a machine-to-machine (M2M)/"Internet of Things" connectivity protocol. It was designed as an extremely lightweight publish/subscribe messaging transport. It is useful for connections with remote locations where a small code footprint is required and/or network bandwidth is at a premium.
 
