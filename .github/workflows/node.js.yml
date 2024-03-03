@@ -1,8 +1,10 @@
 name: Build and Test
 
 on:
+  workflow_dispatch:
   push:
-    branches: [master]
+  pull_request:
+    branches: [main, develop]
 
 jobs:
   build-tsc:
