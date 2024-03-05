@@ -82,7 +82,7 @@
     "optionalDependencies": {
         "@nestjs/common": "^9.4.0",
         "class-validator": "^0.14.0",
-        "reflect-metadata": "^0.1.12",
+        "reflect-metadata": "^0.1.14",
         "rxjs": "^6.0.0 || ^7.0.0"
     },
     "jest": {
