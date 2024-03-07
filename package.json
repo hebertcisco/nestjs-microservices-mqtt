@@ -46,7 +46,7 @@
         "mqtt": "^5.3.6",
         "nest-shared": "^5.0.3",
         "rimraf": "4.4.0",
-        "tsyringe": "4.7.0",
+        "tsyringe": "4.8.0",
         "yup": "1.1.1"
     },
     "devDependencies": {
