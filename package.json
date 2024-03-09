@@ -1,6 +1,6 @@
 {
     "name": "nestjs-microservices-mqtt",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "MQTT is a machine-to-machine (M2M)/Internet of Things connectivity protocol",
     "author": "Hebert Barros <hebert@hotbrains.com.br>",
     "private": true,
