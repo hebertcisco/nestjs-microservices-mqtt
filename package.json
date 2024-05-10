@@ -45,7 +45,7 @@
         "express": "4.19.2",
         "mqtt": "^5.5.5",
         "nest-shared": "^5.0.4",
-        "rimraf": "4.4.0",
+        "rimraf": "5.0.6",
         "tsyringe": "4.8.0",
         "yup": "1.4.0"
     },
