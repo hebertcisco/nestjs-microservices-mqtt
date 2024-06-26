@@ -1,6 +1,6 @@
 {
     "name": "nestjs-microservices-mqtt",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "description": "MQTT is a machine-to-machine (M2M)/Internet of Things connectivity protocol",
     "author": "Hebert Barros <hebert@hotbrains.com.br>",
     "private": true,
@@ -43,7 +43,7 @@
         "class-transformer": "0.5.1",
         "dotenv": "16.4.5",
         "express": "4.19.2",
-        "mqtt": "^5.7.1",
+        "mqtt": "^5.7.2",
         "nest-shared": "^5.0.4",
         "rimraf": "5.0.7",
         "tsyringe": "4.8.0",
@@ -59,11 +59,11 @@
         "@types/dotenv": "8.2.0",
         "@types/express": "4.17.21",
         "@types/jest": "29.5.12",
-        "@types/node": "^20.14.5",
+        "@types/node": "^20.14.8",
         "@types/supertest": "6.0.2",
         "@typescript-eslint/eslint-plugin": "5.59.0",
         "@typescript-eslint/parser": "5.62.0",
-        "@typescript-eslint/typescript-estree": "7.13.1",
+        "@typescript-eslint/typescript-estree": "7.14.1",
         "eslint": "8.57.0",
         "eslint-config-airbnb-base": "15.0.0",
         "eslint-config-prettier": "9.1.0",
@@ -77,7 +77,7 @@
         "ts-loader": "9.5.1",
         "ts-node": "10.9.2",
         "tsconfig-paths": "4.2.0",
-        "typescript": "5.4.5"
+        "typescript": "5.5.2"
     },
     "optionalDependencies": {
         "@nestjs/common": "^9.4.0",
